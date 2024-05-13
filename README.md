@@ -9,7 +9,6 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 ## Información personal
 * Nombre: César Arana
 * Ocupación: Estudiate 
-* Lugar de residencia: Durán
 * Sitio web: [Tu sitio web]
   
 ## Proyectos
