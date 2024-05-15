@@ -8,7 +8,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
   
 ## Información personal
 * Nombre: César Arana
-* Ocupación: Estudiate 
+* Ocupación: Estudiate de Ingenieria en Computación
 * Sitio web: [https://carana08.github.io/carana08/](url)
   
 ## Proyectos
