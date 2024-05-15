@@ -12,7 +12,7 @@ Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis pr
 * Sitio web: [carana08](https://carana08.github.io/carana08/)
   
 ## Proyectos
-* [https://github.com/carana08/Taller03)](https://github.com/carana08/Taller03)
+* [https://github.com/carana08/Taller03](https://github.com/carana08/Taller03)
 * [https://github.com/carana08/TallerDesignPatterns2-G7](https://github.com/carana08/TallerDesignPatterns2-G7)
 * [https://github.com/carana08/POO-P2-G02](https://github.com/carana08/POO-P2-G02)
 * [https://github.com/carana08/TallerDesingPatternsG7](https://github.com/carana08/TallerDesingPatternsG7)
